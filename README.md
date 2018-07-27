@@ -7,4 +7,4 @@ In MacOS terminal:
   octave --persist example_script.m
   
 Should get this image:
-![alt text](https://github.com/adammysa/thresholding/Screen Shot 2018-07-27 at 4.58.15 PM.png "Octave Plot")
+![alt text](https://github.com/adammysa/thresholding/plot.png "Octave Plot")
